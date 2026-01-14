@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @LohitG
-- 👀 I’m interested in data science and software engineering!
-- 🌱 I’m currently learning machine learning and robotics/perception.
-- 💞️ I’m looking to collaborate on machine learning projects.
-- 📫 Reach me at lgeddam@ucsd.edu
+- 👋 Hi, I’m @LohitG, Technical Co-Founder at ([Tandem](https://tandemai.io/))
+- 📫 Reach me at lohit.geddam@gmail.com
 
 <!---
 LohitG/LohitG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
