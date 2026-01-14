@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LohitG, Technical Co-Founder at ([Tandem](https://tandemai.io/))
+- 👋 Hi, I’m @LohitG, Technical Co-Founder at [Tandem](https://tandemai.io/)
 - 📫 Reach me at lohit.geddam@gmail.com
 
 <!---
