@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @LohitG, Technical Co-Founder at [Tandem](https://tandemai.io/)
 - 📫 Reach me at lohit.geddam@gmail.com or 925-364-140two
 
 <!---
